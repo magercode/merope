@@ -1,0 +1,14 @@
+{
+    "cpu_high": "CPU Usage High",
+    "memory_high": "Memory Usage High",
+    "disk_high": "Disk Usage High",
+    "system_info": "System Information",
+    "alert_title": "Alert",
+    "alert_message": "Alert Message",
+    "time": "Time",
+    "level": "Level",
+    "ok": "OK",
+    "warning": "WARNING",
+    "critical": "CRITICAL",
+    "service_started": "Merope Monitoring Service Started"
+}

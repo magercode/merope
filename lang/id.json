@@ -1,0 +1,14 @@
+{
+    "cpu_high": "Penggunaan CPU Tinggi",
+    "memory_high": "Penggunaan Memori Tinggi",
+    "disk_high": "Penggunaan Disk Tinggi",
+    "system_info": "Informasi Sistem",
+    "alert_title": "Peringatan",
+    "alert_message": "Pesan Peringatan",
+    "time": "Waktu",
+    "level": "Tingkat",
+    "ok": "OK",
+    "warning": "PERINGATAN",
+    "critical": "KRITIS",
+    "service_started": "Layanan Monitoring Merope Dimulai"
+}
